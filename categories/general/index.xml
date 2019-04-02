@@ -6,18 +6,19 @@
     <description>Recent content in General on Casual Inference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/general/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello, world</title>
-      <link>/2019/03/30/hello-world/</link>
-      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Hello (again) world</title>
+      <link>/2019/04/01/hello-again-world/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/03/30/hello-world/</guid>
-      <description>I’ve converted my blog to use R’s Blogdown package, which will allow me to publish my writing directly from R Markdown. I’m hoping this will simplify the publishing pipeline and allow me to write more frequently. To start with, I’m going to upload my old posts.</description>
+      <guid>/2019/04/01/hello-again-world/</guid>
+      <description>For the last few months, I’ve been working almost exclusively on my dissertation and other academic research. Great news: I graduated! In July, I’ll be starting a position as a Data Scientist at Civis Analytics.
+I figured it was time to get back into the habit of writing about side-projects, which would also give me the opportunity to learn and practice new computational methods. I intend to use this blog as a journal to keep track of cool things I’m learning (both methods and insights from the data I analyze).</description>
     </item>
     
   </channel>

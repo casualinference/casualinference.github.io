@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2019/04/01/hello-again-world/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/academic/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2019/03/30/hello-world/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -64,7 +64,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -74,14 +74,14 @@
   </url>
   
   <url>
-    <loc>/tags/general/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
+    <loc>/categories/general/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/general/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
+    <loc>/tags/general/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -105,7 +105,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -129,7 +129,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
